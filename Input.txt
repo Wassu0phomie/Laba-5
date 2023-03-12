@@ -1,0 +1,64 @@
+9
+Urganov
+Vladimir
+Dmitrievich
+M
+1323
+1
+4 4 4 4 4 4 4 4 
+Shiriaeva
+Tanya
+Genadievna
+F
+1212
+12
+3 4 3 4 3 4 3 4 
+Gerzen
+Roman
+Sergeevich
+M
+1212
+10
+4 5 4 5 4 4 4 4 
+Zaharov
+Alezander
+Anatolievich
+M
+2323
+12
+5 5 5 5 5 5 5 5 
+Izmailov
+Vlad
+Daniilovich
+M
+2345
+10
+3 3 3 4 3 5 3 3 
+Shishkin
+Vladislav
+Sergeevich
+M
+3453
+3
+5 5 5 5 5 5 5 5 
+Sorokina
+Daria
+Viktorovna
+F
+2372
+3
+4 5 4 5 4 5 4 5 
+Vasilieva
+Anna
+Petrovna
+F
+2332
+9
+4 5 4 5 3 4 5 4 
+Soboleva
+Polina
+Dmitrievna
+F
+2212
+12
+4 4 5 4 4 5 4 5
